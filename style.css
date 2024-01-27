@@ -53,6 +53,7 @@ h3{
 }
 
 .card .top img{
+    margin-top: 20px;
     border-radius: 50%;
     width: 90px;
     margin-bottom: 20px;
