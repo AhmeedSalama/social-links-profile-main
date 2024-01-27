@@ -51,7 +51,7 @@ h3{
 .top p{
     font-size: 14px;
 }
-
+h1{display: none}
 .card .top img{
     margin-top: 20px;
     border-radius: 50%;
